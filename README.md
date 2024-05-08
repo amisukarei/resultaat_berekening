@@ -1,3 +1,5 @@
+# resulaat berekening
+
 Bereken je totaal op DW1/2, TEX1/2 door middel van het opgeven van je resultaten.
 
 Je kan beide al berekende resultaten en aparte toetsen invoeren.
