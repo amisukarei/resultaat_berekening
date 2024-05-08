@@ -1,4 +1,4 @@
-from def_totaalberekening import berekenen_resultaten # type: ignore
+from python.resultaatberekening.def_totaalberekening import berekenen_resultaten # type: ignore
 
 #Vraag gebruiker of deze het totaal al heeft of nog moet berekenen
 keuze_totaal_DW1 = input("Heb je het totaal van DW1 al? ") 
