@@ -45,7 +45,6 @@ resultaat_TEX1 = float(input("Geef het totaal van examen1 "))
 print("Je totaal voor examen 1 is",resultaat_TEX1,"%.")
 
 
-
 keuze_totaal_DW2 = input("Heb je het totaal van DW2 al? ") 
 
 if keuze_totaal_DW2 == 'ja':
