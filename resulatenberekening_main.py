@@ -99,6 +99,3 @@ totaal =round(0.3 * totaal_DW + totaal_TEX * 0.7, 1)
 
 
 print("Je totaal dit jaar is ",totaal,"%.")
-
-
-
