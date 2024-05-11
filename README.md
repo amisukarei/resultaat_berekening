@@ -34,3 +34,6 @@ Heb je het totaal van je taken (sem 2) al? (ja/nee): nee
 Voer de resultaten van je taken(sem2) in breukvorm in gescheiden door spaties: 3/5 4/5 5/5 1/10 3/4 4.5/20
 Je resultaat voor je taken (sem 2) is: 41.8 %
 ```
+## Programma runnen
+
+[Python programma](https://www.online-python.com/5ijSYcknO0)
